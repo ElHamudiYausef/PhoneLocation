@@ -20,4 +20,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Konum alınırken hata oluştu: {e}")
         
-        time.sleep(60)  # Her 60 saniyede bir konumu al ve yazdır
+        time.sleep(15)  # Her 15 saniyede bir konumu al ve yazdır
